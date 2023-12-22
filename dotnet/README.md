@@ -41,7 +41,7 @@ Run `dotnet test` to test Milo.
 
 ## Using Milo
 
-![alt text](/Screenshots/WelcomeScreen.png?raw=true "Welcome screen")
+![alt text](./Screenshots/WelcomeScreen.png?raw=true "Welcome screen")
 
 Refer the table below to control Milo:
 
