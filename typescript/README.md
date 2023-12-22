@@ -82,8 +82,8 @@ The program can be run in two modes:
 ## Screenshots
 
 ## Interactive mode
-![alt text](/screenshots/interactive.png?raw=true "Interactive mode")
+![alt text](./screenshots/interactive.png?raw=true "Interactive mode")
 
 
 ## Automated mode
-![alt text](/screenshots/automated.png?raw=true "Interactive mode")
+![alt text](./screenshots/automated.png?raw=true "Interactive mode")
