@@ -1,5 +1,3 @@
-[![Build Status](https://travis-ci.com/stackpond/milo.svg?token=ZiEpqMrtCtoYozqmY1kh&branch=master)](https://travis-ci.com/stackpond/milo)
-
 # Milo
 
 **Milo** is a codename for a **Toy Robot** simulator written in C# using cross platform .NET Core framework.
@@ -59,4 +57,4 @@ Refer the table below to control Milo:
 
 The feedback is provided after every action so you know what Milo is doing. See Milo in action below:
 
-![alt text](/Screenshots/MiloInAction.png?raw=true "Milo in action")
+![alt text](./Screenshots/MiloInAction.png?raw=true "Milo in action")
